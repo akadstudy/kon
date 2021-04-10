@@ -1,0 +1,15 @@
+file: intro
+  - file: kon20/index
+  sections:
+  - file: kon20/kap1
+  - file: kon20/kap2
+  - file: kon20/kap3
+  - file: kon20/kap4
+  - file: kon20/kap5
+  - file: kon20/kap6
+  - file: kon20/kap7
+  - file: kon20/kap8
+  - file: kon20/kap9
+  - file: kon20/kap10
+  - file: kon20/kap11
+  - file: kon20/kap12
