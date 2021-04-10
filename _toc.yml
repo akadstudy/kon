@@ -1,5 +1,6 @@
-file: intro
-  - file: kon20/index
+- file: intro
+
+- file: kon20/index
   sections:
   - file: kon20/kap1
   - file: kon20/kap2
