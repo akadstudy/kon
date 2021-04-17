@@ -1,16 +1,61 @@
 - file: intro
 
-- file: kon20/index
+- file: kon20detail/index
   sections:
-  - file: kon20/kap1
-  - file: kon20/kap2
-  - file: kon20/kap3
-  - file: kon20/kap4
-  - file: kon20/kap5
-  - file: kon20/kap6
-  - file: kon20/kap7
-  - file: kon20/kap8
-  - file: kon20/kap9
-  - file: kon20/kap10
-  - file: kon20/kap11
-  - file: kon20/kap12
+  - file: kon20detail/kap1
+  - file: kon20detail/kap2
+  - file: kon20detail/kap3
+  - file: kon20detail/kap4
+  - file: kon20detail/kap5
+  - file: kon20detail/kap6
+  - file: kon20detail/kap7
+  - file: kon20detail/kap8
+  - file: kon20detail/kap9
+  - file: kon20detail/kap10
+  - file: kon20detail/kap11
+  - file: kon20detail/kap12
+  
+- file: kon20komplex/index
+  sections:
+  - file: kon20komplex/kap1
+  - file: kon20komplex/kap2
+  - file: kon20komplex/kap3
+  - file: kon20komplex/kap4
+  - file: kon20komplex/kap5
+  - file: kon20komplex/kap6
+  - file: kon20komplex/kap7
+  - file: kon20komplex/kap8
+  - file: kon20komplex/kap9
+  - file: kon20komplex/kap10
+  - file: kon20komplex/kap11
+  - file: kon20komplex/kap12
+
+- file: kon24detail/index
+  sections:
+  - file: kon24detail/kap13
+  - file: kon24detail/kap14
+  - file: kon24detail/kap15
+  - file: kon24detail/kap16
+  - file: kon24detail/kap17
+  - file: kon24detail/kap18
+  - file: kon24detail/kap19
+  - file: kon24detail/kap20
+  - file: kon24detail/kap21
+  - file: kon24detail/kap22
+  - file: kon24detail/kap23
+  - file: kon24detail/kap24
+  
+- file: kon24komplex/index
+  sections:
+  - file: kon24komplex/kap13
+  - file: kon24komplex/kap14
+  - file: kon24komplex/kap15
+  - file: kon24komplex/kap16
+  - file: kon24komplex/kap17
+  - file: kon24komplex/kap18
+  - file: kon24komplex/kap19
+  - file: kon24komplex/kap20
+  - file: kon24komplex/kap21
+  - file: kon24komplex/kap22
+  - file: kon24komplex/kap23
+  - file: kon24komplex/kap24
